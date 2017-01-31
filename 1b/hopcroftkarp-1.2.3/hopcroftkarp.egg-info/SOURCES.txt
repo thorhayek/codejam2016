@@ -1,0 +1,13 @@
+COPYING
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+hopcroftkarp/__init__.py
+hopcroftkarp.egg-info/PKG-INFO
+hopcroftkarp.egg-info/SOURCES.txt
+hopcroftkarp.egg-info/dependency_links.txt
+hopcroftkarp.egg-info/top_level.txt
+hopcroftkarp.egg-info/zip-safe
+test/__init__.py
+test/test_hopcroftkarp.py
